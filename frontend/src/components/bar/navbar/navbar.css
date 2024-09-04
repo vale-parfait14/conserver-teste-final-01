@@ -1,0 +1,26 @@
+.user-png ,i{
+    width: 30px;
+    height: 30px;
+
+}
+.btn-nav-expo:hover{
+    border-left: 0.1px solid black;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.navbar-brand{
+    color: rgba(0, 255, 200, 0.87);
+    font-size: 25px;
+    font-weight: bold;
+}
+.btn-nav{
+    background-color: rgba(0, 255, 200, 0.87);
+    color: white !important;
+    border-radius: 10px;
+}
+
+.btn-nav:hover{
+    background-color: rgba(0, 255, 64, 0.425);
+    color: rgba(8, 26, 31, 0.918) !important;
+    border-radius: 10px;
+}
